@@ -1,0 +1,23 @@
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\bin\Debug\NemoSMS.exe
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\bin\Debug\NemoSMS.pdb
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\bin\Debug\NemoSMS.xml
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\obj\Debug\NemoSMS.Form1.resources
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\obj\Debug\NemoSMS.Resources.resources
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\obj\Debug\NemoSMS.vbproj.GenerateResource.Cache
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\obj\Debug\NemoSMS.exe
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\obj\Debug\NemoSMS.xml
+C:\Users\Leigh\AppData\Local\Temporary Projects\NemoSMS\obj\Debug\NemoSMS.pdb
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\obj\Debug\NemoSMS.exe
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\obj\Debug\NemoSMS.xml
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\obj\Debug\NemoSMS.pdb
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\bin\Debug\NemoSMS.exe.config
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\bin\Debug\NemoSMS.exe
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\bin\Debug\NemoSMS.pdb
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\bin\Debug\NemoSMS.xml
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\obj\Debug\NemoSMS.Form1.resources
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\obj\Debug\NemoSMS.Resources.resources
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\NemoSMS\NemoSMS\obj\Debug\NemoSMS.vbproj.GenerateResource.Cache
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\SMSSender\NemoSMS\bin\Debug\NemoSMS.exe.config
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\SMSSender\NemoSMS\obj\Debug\NemoSMS.exe
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\SMSSender\NemoSMS\obj\Debug\NemoSMS.xml
+C:\Users\Leigh\Documents\Visual Studio 2012\Projects\SMSSender\NemoSMS\obj\Debug\NemoSMS.pdb
